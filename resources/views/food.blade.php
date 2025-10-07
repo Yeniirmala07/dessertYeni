@@ -10,7 +10,7 @@
 <body style="background-color: #fff0f6">
 
     <header class="bg-danger text-white text-center py-3">
-        <h1>Food Order</h1>
+        <h1>Food Order out</h1>
     </header>
 
     <main class="container my-4">
